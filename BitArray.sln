@@ -17,6 +17,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BitArray", "src\BitArray\Bi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BitArrayTester", "test\BitArrayTester\BitArrayTester.vcxproj", "{6E900932-3817-48BB-A2E6-E216E6BA334A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{AD791BAA-32AB-4B4F-ACEC-3AC605AEAE7C}"
+	ProjectSection(SolutionItems) = preProject
+		lib\keywords.txt = lib\keywords.txt
+		lib\library.properties = lib\library.properties
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
