@@ -23,6 +23,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{AD791BAA-32A
 		lib\library.properties = lib\library.properties
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{2F15C4C7-902C-4255-A713-16BCB91DA405}"
+	ProjectSection(SolutionItems) = preProject
+		examples\BitArray.cpp = examples\BitArray.cpp
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
