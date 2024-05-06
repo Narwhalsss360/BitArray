@@ -1,7 +1,7 @@
-getByteCount	KEYWORD2
+getByteCountFromBitCount	KEYWORD2
 
 BitArray		KEYWORD1
-get				KEYWORD2
 getBitCount		KEYWORD2
 getByteCount	KEYWORD2
+get				KEYWORD2
 set				KEYWORD2
